@@ -1,0 +1,28 @@
+{
+  "name": "jwt_package",
+  "version": "0.1.0",
+  "description": "learn jsonwebtoken from the basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderXreyance/JWT.git"
+  },
+  "keywords": [
+    "jwt",
+    "jsonwebtoken",
+    "authentication"
+  ],
+  "author": "Riyansh Yogi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderXreyance/JWT/issues"
+  },
+  "homepage": "https://github.com/CoderXreyance/JWT#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
